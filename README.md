@@ -1,6 +1,5 @@
-# 🍕 Zomato User Order Analysis - India
+# Zomato User Order Analysis - India
 
-**Course:** 602 - Data Analytics using Python
 
 ## 📊 Project Overview
 
